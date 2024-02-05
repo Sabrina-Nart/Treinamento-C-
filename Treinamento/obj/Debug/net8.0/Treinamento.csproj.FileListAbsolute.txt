@@ -1,0 +1,14 @@
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.AssemblyInfoInputs.cache
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.AssemblyInfo.cs
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\bin\Debug\net8.0\Treinamento.exe
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\bin\Debug\net8.0\Treinamento.deps.json
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\bin\Debug\net8.0\Treinamento.runtimeconfig.json
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\bin\Debug\net8.0\Treinamento.dll
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\bin\Debug\net8.0\Treinamento.pdb
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.dll
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\refint\Treinamento.dll
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.pdb
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\Treinamento.genruntimeconfig.cache
+C:\Users\sabri\Documents\BackEnd - Useall\Treinamento_2022\Treinamento\obj\Debug\net8.0\ref\Treinamento.dll
